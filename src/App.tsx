@@ -148,6 +148,9 @@ const App: FC = () => {
             <Text fontSize={16} as="p" color="primary">
               🕹️ Play with arrow keys or swipe
             </Text>
+            <Text fontSize={16} color="primary">
+              <a href="https://github.com/amir-rm/2048-puzzle">💻 Github 💻</a>
+            </Text>
           </Box>
         </Box>
       </Box>
