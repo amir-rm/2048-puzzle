@@ -1,8 +1,8 @@
 {
-  "name": "react-2048",
+  "name": "2048-puzzle",
   "version": "0.0.0",
   "private": true,
-  "description": "A React clone of 2048 game",
+  "description": "A 2048 puzzle with react",
   "main": "src/index.js",
   "scripts": {
     "build": "npm run tsc && vite build",
@@ -25,11 +25,11 @@
   "author": "Amir-rm",
   "repository": {
     "type": "git",
-    "url": "https://github.com/kwrush/react-2048.git"
+    "url": "https://github.com/amir-rm/2048-puzzle.git"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/kwrush/react-2048/issues"
+    "url": "https://github.com/amir-rm/2048-puzzle/issues"
   },
   "dependencies": {
     "react": "^18.2.0",
