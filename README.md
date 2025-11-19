@@ -1,4 +1,4 @@
-A [2048](https://github.com/gabrielecirulli/2048) puzzle game with mplementation of[typescript](https://www.typescriptlang.org/) & [Styled-components](https://styled-components.com/)
+A [2048](https://github.com/gabrielecirulli/2048) puzzle game with mplementation of [typescript](https://www.typescriptlang.org/) & [Styled-components](https://styled-components.com/)
 
 ### Getting Started
 
@@ -9,3 +9,5 @@ $ npm start
 ```
 
 ### Liscense
+
+This project is under [MIT License](https://github.com/amir-rm/2048-puzzle/blob/main/LICENSE.md)
